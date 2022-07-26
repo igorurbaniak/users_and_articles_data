@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Peter",
+      "last_name": "Parker",
+      "email": "p.parker@gmail.com",
+      "phoneNumber": "+48 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    },
+    {
+      "id": 2,
+      "first_name": "Kate",
+      "last_name": "Jackson",
+      "email": "k.jackson@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/women/18.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    },
+    {
+      "id": 3,
+      "first_name": "Paris",
+      "last_name": "Toretto",
+      "email": "p.toretto@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/women/84.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    },
+    {
+      "id": 4,
+      "first_name": "Frank",
+      "last_name": "Smith",
+      "email": "f.smith@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Mr. Thaddeus",
+      "author_id": 1,
+      "picture": "https://picsum.photos/id/1003/100/300",
+      "content": "Lithuania, my homeland! You are like health. His name was we can to the countryside cheer up. Thaddeus Telimena, Assessor Krajczanka and often without any ornaments, but wider than young hunters so was still well-preserved vault all reddened, as he again in a pony. See what I perceive every day as time and health. His name seemed to monkey or pronunciation learn to crowd and there has schools teaching to live with the house no one better over the blue Nemunas stretched. See you! so according to today's fashion rode Hrechcha. Here the laughter of the youth drowned out Wojski's speech."
+    },
+    {
+      "id": 2,
+      "title": "Novelty",
+      "author_id": 1,
+      "picture": "https://picsum.photos/id/1006/300/100",
+      "content": "Dear Speaker, High Chamber. GDP is growing. I don't want to suggest anything to you, but the constant information security of our activities expands us the horizons of the existing criteria expands us the horizons of the current situation. In practice, coordinating the work of the two offices is important because of the next steps in the greater creation of a system of universal participation. And it becomes indicators ... No one else you do not need to prove, because changing the existing criteria makes it possible in the development of new proposals. All in all, changing the outdated system of universal participation."
+    },
+    {
+      "id": 3,
+      "title": "Kant: A Treatise",
+      "author_id": 2,
+      "picture": "https://picsum.photos/id/1003/200/200",
+      "content": "The beginning of the treaty of the reign of Frederick the Great, King of Prussia lived in a sultry thing we can not suppose, but he according to it to mark, of the highest Existence to suppose and punishment straightforward. For in such it came to imply variety in that it depends on that it is not, or everyone would trample it! It falls to us the limits of our towards perfection."
+    },
+    {
+      "id": 4,
+      "title": "The power of music",
+      "author_id": 4,
+      "picture": "https://picsum.photos/id/1011/100/300",
+      "content": "By analyzing 72 randomized controlled trials involving more than 7,000 patients who received surgery, researchers found those who were played music after their procedure reported feeling less pain and anxiety than those who did not listen to music, and they were also less likely to need pain medication."
+    }
+  ]
+}
